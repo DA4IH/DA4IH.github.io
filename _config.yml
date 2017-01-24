@@ -7,7 +7,7 @@ url: "https://github.com/DA4IH"
 
 
 # Secondary Parameters
-baseurl: "/web"
+baseurl: "/"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo:
