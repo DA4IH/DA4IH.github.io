@@ -2,7 +2,6 @@
 layout: page
 title: "Conócenos"
 description: "¿Quiénes Somos?"
-header-img: "img/home-bg.jpg"
 ---
 
 # Misión
