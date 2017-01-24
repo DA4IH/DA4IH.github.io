@@ -1,0 +1,74 @@
+# Members
+
+- name: Dra. María de los Ángeles Cosío León
+  role: Investigadora Principal
+  img: https://i1.rgstatic.net/ii/profile.image/AS%3A279973408591873%401443762270352_l/Maria_Cosio_Leon.png
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante tellus. Proin tempor, lectus nec lacinia molestie, augue risus congue mauris, nec iaculis nibh leo sed lectus. Mauris lobortis elit turpis. Proin commodo faucibus dolor at gravida. Suspendisse vehicula felis tortor, non pellentesque lectus efficitur nec.
+  url: https://www.researchgate.net/profile/Maria_Cosio_Leon
+  adscripcion: "UABC"
+  adscripcionurl: http://www.uabc.mx
+  visible: true
+
+- name: Dra. Anabel Martínez Vargas
+  role: Investigadora
+  img: https://i1.rgstatic.net/ii/profile.image/AS%3A292906830188545%401446845838467_l/Anabel_Martinez-Vargas.png
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante tellus. Proin tempor, lectus nec lacinia molestie, augue risus congue mauris, nec iaculis nibh leo sed lectus. Mauris lobortis elit turpis. Proin commodo faucibus dolor at gravida. Suspendisse vehicula felis tortor, non pellentesque lectus efficitur nec.
+  url: https://www.researchgate.net/profile/Anabel_Martinez-Vargas
+  adscripcion: "UPP"
+  adscripcionurl: http://www.upp.edu.mx/front/
+  visible: true
+
+- name: Dra. Reyna de Carmen Martínez Rodríguez
+  role: Investigadora
+  img: https://c1.staticflickr.com/6/5163/5281086084_672a6bfb70.jpg
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante tellus. Proin tempor, lectus nec lacinia molestie, augue risus congue mauris, nec iaculis nibh leo sed lectus. Mauris lobortis elit turpis. Proin commodo faucibus dolor at gravida. Suspendisse vehicula felis tortor, non pellentesque lectus efficitur nec.
+  url: https://scholar.google.es/citations?user=evB_dusAAAAJ&hl=es
+  adscripcion: "UPP"
+  adscripcionurl: http://www.upp.edu.mx/front/
+  visible: true
+
+- name: Dra. Lilia Benítez Corona
+  role: Investigadora
+  img: https://c1.staticflickr.com/6/5163/5281086084_672a6bfb70.jpg
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante tellus. Proin tempor, lectus nec lacinia molestie, augue risus congue mauris, nec iaculis nibh leo sed lectus. Mauris lobortis elit turpis. Proin commodo faucibus dolor at gravida. Suspendisse vehicula felis tortor, non pellentesque lectus efficitur nec.
+  url: https://scholar.google.com.mx/citations?user=zam1UAIAAAAJ&hl=es
+  adscripcion: "UPP"
+  adscripcionurl: http://www.upp.edu.mx/front/
+  visible: true
+
+- name: M.I. Dolores Ojeda Carreño
+  role: Experta en Interoperabilidad de Expedientes Clínicos Electrónicos
+  img: https://i1.rgstatic.net/ii/profile.image/AS%3A451354117316608%401484622615067_l/Dolores_Ojeda.png
+  bio: Obtuvo el grado de Ingeniera en Computación, así como el grado de Maestra en Ingeniería por parte de la Universidad Autónoma de Baja California (UABC). Ex-docente de la Facultad de Ingeniería, Arquitectura y Diseño (FIAD) en UABC. Actualmente es estudiante de Doctorado en Ciencias en UABC, enfocado en el área de telemedicina, redes neuronales y estándares de interoperabilidad entre sistemas de información hospitalarios.
+  url: https://mx.linkedin.com/in/dolores-ojeda-carreño-61612931/en
+  adscripcion: "UABC"
+  adscripcionurl: http://www.uabc.mx
+  visible: true
+
+- name: M.I. Arturo Jesús Laflor Hernández
+  role: Experto en Tecnologías Persuasivas y Algoritmos de Inteligencia Artificial
+  img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/000/1e2/3d8/1fa6511.jpg
+  bio: Graduado como Ingeniero en Sistemas Computacionales por la Universidad de Montemorelos. Obtuvo el grado de Maestro en Ingeniería por parte de la Universidad Autónoma de Baja California (UABC). Ha sido docente universitario por 8 años en la Universidad Linda Vista y coordinador de Ingeniería en Sistemas por siete años en la misma universidad, actualmente es estudiante de Doctorado en Ciencias en UABC, su tema de tesis es en el área de aprendizaje automático enfocado al análisis de datos relacionados con salud y estilo de vida, específicamente calidad de sueño.
+  url: https://mx.linkedin.com/in/arturo-jesús-laflor-hernández-51226655
+  adscripcion: "UABC"
+  adscripcionurl: http://www.uabc.mx
+  visible: true
+
+- name: MsC. Gerardo Salvador Romo Cárdenas
+  role: Experto en Medición no Invasiva de Glucosa por Métodos Ópticos
+  img: https://i1.rgstatic.net/ii/profile.image/AS%3A367164675641345%401464550288384_l/Gerardo_Romo-Cardenas.png
+  bio: Ingeniero Físico Industrial por el Tecnológico de Monterrey, Maestro en Ciencias en Óptica por el CICESE. Experiencia docente en CETYS Universidad y Universidad de Montemorelos. Actualmente es estudiante de Doctorado en Ciencias en UABC, en el área de óptica biomédica, con un proyecto de detección y cuantificación espectroscopica de biomateriales.
+  url: https://www.researchgate.net/profile/Gerardo_Romo-Cardenas
+  adscripcion: "UABC"
+  adscripcionurl: http://www.uabc.mx
+  visible: true
+
+- name: Med. Gener José Avilés Rodríguez
+  role: Médico clínico, Entrenándose en el Uso de Algoritmos de Aprendizaje Automatizado para Uso en Medicina.
+  img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/064/11a/38c224b.jpg
+  github: /generaviles
+  bio: Yo solo se que no se nada.
+  url: https://mx.linkedin.com/in/gener-avilés-r-2b300434
+  adscripcion: "UABC"
+  adscripcionurl: http://www.uabc.mx
+  visible: true
