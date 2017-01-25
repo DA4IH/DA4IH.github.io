@@ -256,8 +256,30 @@ En este caso como utilizaremos el [PSeInt](http://pseint.sourceforge.net) la sec
 
 {{ page.vertical }}
 
+## Representación por Pseudocódigo de una Suma
+
+~~~
+Proceso Suma
+    Escribir 'INGRESE PRIMER NÚMERO'
+    Leer a;
+    Escribir 'INGRESE SEGUNDO NÚMERO'
+    Leer b;
+    c<- a+b;
+    Escribir 'LA SUMA ES:',C;
+FinProceso
+~~~
+
 {{ page.horizontal }}
 
+## Diagrama de Flujo
+
+La representación mediante diagrama de flujo es una descripción gráfica de un algoritmo utilizando símbolos.
+
+---
+
+![Diagrama de Flujo](http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png)
+
+{{ page.horizontal }}
 Use MathJax for Math.
 
 $$ A = \pi r^2 $$
