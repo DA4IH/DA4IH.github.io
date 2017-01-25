@@ -36,6 +36,15 @@
   adscripcionurl: http://www.upp.edu.mx/front/
   visible: true
 
+- name: Dr. Gabriel Kantún Montiel
+  role: Investigador
+  img: https://i1.rgstatic.net/ii/profile.image/AS%3A274057010610177%401442351691904_l/Gabriel_Kantun.png
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante tellus. Proin tempor, lectus nec lacinia molestie, augue risus congue mauris, nec iaculis nibh leo sed lectus. Mauris lobortis elit turpis. Proin commodo faucibus dolor at gravida. Suspendisse vehicula felis tortor, non pellentesque lectus efficitur nec.
+  url: https://www.researchgate.net/profile/Gabriel_Kantun
+  adscripcion: "BUAP"
+  adscripcionurl: http://www.buap.mx
+  visible: true
+
 - name: M.I. Dolores Ojeda Carreño
   role: Experta en Interoperabilidad de Expedientes Clínicos Electrónicos
   img: https://i1.rgstatic.net/ii/profile.image/AS%3A451354117316608%401484622615067_l/Dolores_Ojeda.png
@@ -71,4 +80,4 @@
   url: https://mx.linkedin.com/in/gener-avilés-r-2b300434
   adscripcion: "UABC"
   adscripcionurl: http://www.uabc.mx
-  visible: false
+  visible: true
