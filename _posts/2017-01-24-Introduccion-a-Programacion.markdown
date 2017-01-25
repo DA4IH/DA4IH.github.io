@@ -277,9 +277,12 @@ La representación mediante diagrama de flujo es una descripción gráfica de un
 
 ---
 
-![Diagrama de Flujo](http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png)
+
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/dflujo1.png "Diagrama de Flujo")
+
 
 {{ page.horizontal }}
+
 Use MathJax for Math.
 
 $$ A = \pi r^2 $$
