@@ -122,6 +122,134 @@ Un paradigma define un conjunto de reglas, patrones y estilos de programación q
 
 {{ page.vertical }}
 
+## Definición del Problema
+---
+
+Está dada en sí por el enunciado del problema, el cual debe ser claro y completo. Es importante que conozcamos exactamente "qué se desea obtener al final del proceso".
+
+> * ¿Qué entradas se requieren?
+(Tipo y cantidad)
+* ¿Cuál es la salida deseada?
+(Tipo y cantidad)
+* ¿Qué método produce la salida deseada?
+
+{{ page.vertical }}
+
+## Análisis del Problema
+
+El propósito del análisis del problema es ayudar al programador a obtener una cierta comprensión de la naturaleza del problema.
+
+---
+
+* El problema debe estar bien definido si se quiere llegar a una solución satisfactoria.
+* Para definir con precisión el problema se requiere que las especificaciones de entrada y salida sean descritas en detalle.
+* Éstos son los requisitos mas importantes para llegar a una solución eficaz.
+
+{{ page.vertical }}
+
+## Análisis del Problema -- Ejercicio
+
+> Se desea obtener una tabla de depreciaciones acumuladas y dos valores reales de cada año de un automóvil comprado en 1,800,000 pesos en el año de 2006, durante los seis años siguientes suponiendo un valor de recuperación de 120,000. Realizar el análisis del problema, conociendo la fórmula de la depreciación anual constante D para cada año de vida útil.
+
+{{ page.vertical }}
+
+## Análisis del Problema -- Solución
+---
+
+$$ D = {\dfrac{costo - valorDeRecuperación}{vidaÚtil}} $$
+
+{{ page.horizontal }}
+
+## Algoritmo
+
+* El conjunto de instrucciones ordenadas, que especifican una secuencia finita de operaciones a realizar para resolver  una clase de problema.
+* **Los algoritmos son más importantes que los lenguajes de programación o las computadoras**. Un lenguaje de programación es tan sólo un medio para expresar el algoritmo, y una computadora es sólo un procesador para ejecutarlo.
+
+{{ page.horizontal }}
+
+## Representaciones de un Algoritmo
+
+Todo algoritmo puede ser representado por:
+* Lenguaje natural
+* Pseudocódigo
+* Diagramas de flujo
+* Lenguajes de programación
+
+{{ page.vertical }}
+
+## Lenguaje natural -- Ejemplo
+---
+
+
+* **Problema: Sumar 2 números.**
+  - Inicio Suma
+  - Ingresar primer número
+  - Guardar número en variable a
+  - Ingresar segundo número
+  - Guardar número en variable b
+  - Sumar a y b
+  - Guardar resultado en R
+  - Mostrar R
+  - Fin
+
+
+{{ page.vertical }}
+
+## Pseudocódigo
+---
+
+* Es una forma de representar un algoritmo, que se acerca a los lenguajes de programación y con elementos del lenguaje natural.
+
+* El pseudocódigo se compone de:
+  - Cabecera
+  - Declaraciones
+  - Cuerpo
+* La cabecera es la parte del algoritmo que posee el nombre de éste.
+* Las declaraciones son las variables y constantes que utilizará el algoritmo para resolver el problema.
+* El cuerpo son el conjunto de instrucciones o acciones que están entre el Inicio y el Fin.
+
+{{ page.vertical }}
+
+## Pseudocódigo
+### Tipos de datos
+---
+
+- ***`num`***: cualquier número
+- ***`BOOL`***: solo se le pueden asignar dos valores, y corresponden a falso/verdadero (*boolean*)
+- ***`char`***: representa un carácter
+- ***`arreglo`***: lista estática de elementos (*array*). Se debe de indicar el tipo y la cantidad de elementos que almacena.
+- ***`string`***: conjunto de caracteres
+- ***`nada`***: Ausencia de parámetros (para la entrada y/o para la salida).
+
+{{ page.vertical }}
+
+## Pseudocódigo
+### Ejemplo
+---
+
+* La estructura del pseudocódigo es como sigue:
+
+    `Proceso SinTitulo
+
+    accion 1;
+
+    accion 2;
+
+    .
+
+    .
+
+    .
+
+    accion n;
+
+    FinProceso`
+
+
+{{ page.vertical }}
+
+{{ page.horizontal }}
+
 Use MathJax for Math.
 
 $$ A = \pi r^2 $$
@@ -168,7 +296,7 @@ Inline `code`.
 # Code Block
 
 	import numpy as np
-	def _set_colors():
+	def  _set_colors():
     HighRGB = np.array([26, 152, 80]) / 255.
 
 {{ page.horizontal }}
