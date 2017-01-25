@@ -170,10 +170,11 @@ $$ D = {\dfrac{costo - valorDeRecuperación}{vidaÚtil}} $$
 ## Representaciones de un Algoritmo
 
 Todo algoritmo puede ser representado por:
-* Lenguaje natural
-* Pseudocódigo
-* Diagramas de flujo
-* Lenguajes de programación
+
+- Lenguaje natural
+- Pseudocódigo
+- Diagramas de flujo
+- Lenguajes de programación
 
 {{ page.vertical }}
 
@@ -211,7 +212,9 @@ Todo algoritmo puede ser representado por:
 {{ page.vertical }}
 
 ## Pseudocódigo
+
 ### Tipos de datos
+
 ---
 
 - ***`num`***: cualquier número
@@ -224,7 +227,9 @@ Todo algoritmo puede ser representado por:
 {{ page.vertical }}
 
 ## Pseudocódigo
+
 ### Ejemplo
+
 ---
 
 * La estructura del pseudocódigo es como sigue:
