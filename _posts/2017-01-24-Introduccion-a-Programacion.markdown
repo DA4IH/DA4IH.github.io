@@ -342,6 +342,8 @@ Genera un diagrama de flujo en PSeInt para tu algoritmo presionando el botón:
 
 {{ page.vertical }}
 
+<!---
+
 Use MathJax for Math.
 
 $$ A = \pi r^2 $$
@@ -432,4 +434,4 @@ Now, you CAN write in HTML using this template. If you want to create HTML prese
 
 # [Back]({{ site.url }}{{ site.baseurl }})
 
-</section></section>
+</section></section> 
