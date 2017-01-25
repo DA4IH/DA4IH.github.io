@@ -50,7 +50,7 @@ Sólo podrán realizar el examen parcial correspondiente las personas que tengan
 Entorno de desarrollo: Lenguaje C estructurado.
 
 * El IDE de referencia: Dev C++
-* PSEINT
+* [PSeInt](http://pseint.sourceforge.net)
 
 {{ page.horizontal }}
 
@@ -244,6 +244,15 @@ Todo algoritmo puede ser representado por:
     accion n;
   FinProceso
 ~~~
+
+---
+
+  - La sección "`Proceso SinTitulo`" es la cabecera del algoritmo
+  - La sección "`accion 1, accion 2, ...`" es el cuerpo del algoritmo
+
+{{ page.vertical }}
+
+En este caso como utilizaremos el [PSeInt](http://pseint.sourceforge.net) la sección de declaraciones del algoritmo no se toma en cuenta, ya que el software se encarga de asignarle el tipo de dato a cada variable dependiendo del uso que se le dé.
 
 {{ page.vertical }}
 
