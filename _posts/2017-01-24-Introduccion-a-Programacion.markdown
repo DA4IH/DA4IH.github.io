@@ -234,22 +234,16 @@ Todo algoritmo puede ser representado por:
 
 * La estructura del pseudocódigo es como sigue:
 
-    `Proceso SinTitulo
-
+~~~
+  Proceso SinTitulo
     accion 1;
-
     accion 2;
-
     .
-
     .
-
     .
-
     accion n;
-
-    FinProceso`
-
+  FinProceso
+~~~
 
 {{ page.vertical }}
 
