@@ -281,7 +281,65 @@ La representación mediante diagrama de flujo es una descripción gráfica de un
 ![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/dflujo.png "Diagrama de Flujo")
 
 
-{{ page.horizontal }}
+{{ page.vertical }}
+
+## Diagrama de Flujo
+
+Representación mediante diagrama de flujo:
+
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/dflujo1.png "Diagrama de Flujo para la Suma de 2 Números")
+
+{{ page.vertical }}
+
+## Tip
+
+Genera un diagrama de flujo en PSeInt para tu algoritmo presionando el botón:
+
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/pseint.png "Ícono en PSeInt para Iniciar un Diagrama de Flujo")
+
+{{ page.vertical }}
+## **Ejemplos de**
+## **Distintos Diseños**
+
+{{ page.vertical }}
+
+## Top-Down
+
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/topdown.png "Diagrama Top-Down")
+
+{{ page.vertical }}
+
+## Secuencial
+
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/secuencial.png "Diseño Secuencial")
+
+{{ page.vertical }}
+
+## Alternativa Simple
+
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/altsimple.png "Diagrama con Alternativas Simple")
+
+{{ page.vertical }}
+
+## Alternativa Doble
+
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/altdoble.png "Diagama con Alternativas Dobles")
+
+{{ page.vertical }}
+
+## Ejemplos Más Complejos
+
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/altmulti.png "Diagrama con Múltiples Bloques de Código")
+
+{{ page.vertical }}
+
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/dflujocode1.png "Ejemplo Complejo")
+
+{{ page.vertical }}
+
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/dflujocode.png "Diagrama y Código")
+
+{{ page.vertical }}
 
 Use MathJax for Math.
 
