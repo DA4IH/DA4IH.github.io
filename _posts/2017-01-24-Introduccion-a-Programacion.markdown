@@ -299,6 +299,7 @@ Genera un diagrama de flujo en PSeInt para tu algoritmo presionando el botón:
 
 {{ page.vertical }}
 ## **Ejemplos de**
+
 ## **Distintos Diseños**
 
 {{ page.vertical }}
