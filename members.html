@@ -13,6 +13,9 @@ description: "Colaborador@s Activ@s en el Grupo"
 
 	<h2>{{ member.role }}</h2>
 
+	{% if member.adscripcion %}
+ 	<span class="social-share-googleplus"><a href="{{ member.adscripcionurl }}" title="Adscripción"><img src="{{ "/img/icons/uni-icon.png" | prepend: site.baseurl }}" style="height:20px">{{member.adscripcion}}</a></span>
+ 	{% endif %}
 	{% if member.github %}
 	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span>
 	{% endif %}
