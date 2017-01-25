@@ -278,7 +278,7 @@ La representación mediante diagrama de flujo es una descripción gráfica de un
 ---
 
 
-![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/dflujo1.png "Diagrama de Flujo")
+![alt text](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/dflujo.png "Diagrama de Flujo")
 
 
 {{ page.horizontal }}
