@@ -1,7 +1,7 @@
 ---
 layout:     	slide
 title:     		Introducción a la Programación
-author:     	Dra. María de Los Ángeles Cosío León
+author:     	Dra. María Cosío León
 tags:         Programación Clases fiad UABC
 subtitle:    	"Generalidades de Clase y Conceptos Iniciales"
 category:     clases
