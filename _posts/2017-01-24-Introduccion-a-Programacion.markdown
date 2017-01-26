@@ -4,6 +4,7 @@ title:     		Introducción a la Programación
 author:     	Dra. María de Los Ángeles Cosío León
 tags:         Programación Clases fiad UABC
 subtitle:    	"Generalidades de Clase y Conceptos Iniciales"
+category:     clases
 
 theme:		sky # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		cube # default/cube/page/concave/zoom/linear/fade/none
@@ -434,4 +435,4 @@ Now, you CAN write in HTML using this template. If you want to create HTML prese
 
 # [Back]({{ site.url }}{{ site.baseurl }})
 
-</section></section> 
+</section></section>
