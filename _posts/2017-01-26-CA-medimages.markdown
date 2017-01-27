@@ -1,10 +1,12 @@
 ---
 layout:     post
-title:      Autómatas Celulares e Imágenes Médicas
+title:      Cellular Automatas and Medical Images
 author:     Gener Avilés R
 tags: 		  Matemáticas_Discretas Autómatas Celulares Imágenes Médicas
-subtitle:  	Un Modelo Determinista para Detección de Bordes en Imágenes Médicas
+subtitle:  	
 category:  med
+header-img: "img/med.png"
+visualworkflow: true
 ---
 
 Cellular Automata (CA) are models that are <a href="https://en.wikipedia.org/wiki/Discrete_mathematics"> discrete </a> in time and space, also known as tessellation automata, homogenous structures, cellular structures, iterative arrays, etc.
@@ -24,8 +26,7 @@ In order for the rules to be understood we have to declare some concepts before:
 <ul>A greyscale image can be represented by a matrix of data<i> F={W x M} </i>where<i>F<sub>W,M</sub> belong to the set of numbers <i>{0,1,2,...,255}.</i></i> </ul>
 The following image summarises the rules:
 
-![ca rules]()
-<image src= "../img/carules.png" width="1200" height="600">
+![Reglas del AC](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/carules.png)
 
 <i>N </i>being a matrix of <i>3x3.</i>
 
@@ -33,9 +34,54 @@ With this approximation we were able to obtain preliminary results that reflecte
 
 I will just show you one image of what this CA can produce, on the left you will see an image of an X-Ray of a femur with an oblique fracture, the next image is the binary version of the first. The one on the right hand side is an image produced entirely by the cellular automaton designed by us.
 
-<image src= "../img/fractura.png" width="600" height= "160">
+![Resultados](https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/fractura.png)
 
-As you can si it was able to find the borders of the structured represented in the original image. Even though it is impossible to miss this fracture, the fact that a mathematical model with <i>just</i> two rules can generate this is impressive and talks to the potential for it's use in more advanced applications.
+As you can see, it was able to find the borders of the structured represented in the original image. Even though it is impossible to miss this fracture, the fact that a mathematical model with <i>just</i> two rules can generate this is impressive and talks to the potential for it's use in more advanced applications.
 
 So far so good, I will keep experimenting and sharing with you what pops up.
+
 Till the next one!
+
+*If you want to try with your own images, you can try with the MatLab code we wrote for this:*
+
+{% highlight matlab %}
+clc
+close all
+clear
+a=imread('NAME OF IMAGE');
+a=rgb2gray(a);
+tamano=size(a);
+x=zeros(tamano(1),tamano(2));
+for k=1:tamano(1)
+    for l=1:tamano(2)
+        if a(k,l)<128
+            x(k,l)=0;
+        else
+            x(k,l)=255;
+        end
+    end
+end
+subplot(1,3,1)
+imshow(a);
+subplot(1,3,2)
+imshow(x);
+y=zeros(tamano(1),tamano(2));
+y=y+255;
+for k=1:tamano(1)
+    for l=1:tamano(2)
+        if k>1 & k< tamano(1)-1 & l>1 & l<tamano(2)-1
+            if x(k-1,l-1) == 0 & x(k,l-1) == 0 & x(k+1,l-1) == 0 & x(k-1,l) == 0 & x(k,l) == 0 & x(k+1,l) == 0 & x(k-1,l+1) == 0 & x(k,l+1) == 0 & x(k+1,l+1) == 0
+                c(k,l)=255;
+            else
+            if x(k-1,l-1) == 255 & x(k,l-1) == 255 & x(k+1,l-1) == 255 & x(k-1,l) == 255 & x(k,l) == 255 & x(k+1,l) == 255 & x(k-1,l+1) == 255 & x(k,l+1) == 255 & x(k+1,l+1) == 255
+               y(k,l)=255;
+            else
+                y(k,l)=0;
+            end
+            end
+        end
+    end
+end
+subplot(1,3,3)
+imshow(y);
+}{% endhighlight %}
