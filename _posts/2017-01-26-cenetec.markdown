@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Alianza con CENETEC para Impartir Talleres
+title:      Alianza con CENETEC para Gestionar Workshops
 author:     Dolores Ojeda C
 tags: 		  cenetec taller
-subtitle:  	Apoyo de DA4IH al Centro Nacional de Excelencia Tecnológica en Salud
+subtitle:  	Temas de Punta en Análisis de Datos e Interoperabilidad
 category:  ece
 header-img: "img/ece.0.png"
 visualworkflow: false
