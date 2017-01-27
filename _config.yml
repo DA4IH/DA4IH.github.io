@@ -9,7 +9,7 @@ url: "https://da4ih.github.io"
 # Secondary Parameters
 header-img: img/medInfo 7.jpg
 headercolor: "#FFFFFF"
-logo:
+logo: "https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/Logo_DAIH_1_trans.png"
 
 # Tertiary Parameters
 github_username: generaviles
