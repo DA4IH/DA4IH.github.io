@@ -2,7 +2,7 @@
 layout:     post
 title:      Cellular Automatas and Medical Images
 author:     Gener Avilés R
-tags: 		  Matemáticas_Discretas Autómatas Celulares Imágenes Médicas
+tags: 		  Autómatas imágenes medicina
 subtitle:  	
 category:  med
 header-img: "img/med.png"

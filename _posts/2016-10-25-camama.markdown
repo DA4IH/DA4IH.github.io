@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      Red Neuronal para Diagnósticos
+author:     Arturo Laflor H
+tags: 		  perceptron cancer IA medicina
+category:  med
+header-img: "img/med.png"
+visualworkflow: false
+---
+
+<iframe id="cancer_de_mama" src=" https://laha.shinyapps.io/cancer_de_mama/"
+style="border: non; width: 100%; height: 800px"
+frameborder="0">
+</iframe>
