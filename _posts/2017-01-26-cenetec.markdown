@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Alianza con CENETEC para Gestionar Workshops
+title:      Alianza con CENETEC Gestion Workshop.
 author:     Dolores Ojeda C
-tags: 		  cenetec taller
-subtitle:  	Temas de Punta en Análisis de Datos e Interoperabilidad
+tags: 		  CENETEC Workshop
+subtitle:  	Temas de Punta en Estandarización de Datos y su Analisis, efectividad en los costos.
 category:  ece
 header-img: "img/ece.0.png"
 visualworkflow: false
