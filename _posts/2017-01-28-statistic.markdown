@@ -12,8 +12,3 @@ visualworkflow: true
 style="border: non; width: 100%; height: 800px"
 frameborder="0">
 </iframe>
-
-<iframe id="pitfalls" src=" http://www.claviusweb.net/pitfalls/"
-style="border: non; width: 100%; height: 800px"
-frameborder="0">
-</iframe>
