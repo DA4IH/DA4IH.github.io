@@ -1,13 +1,11 @@
 ---
 layout:     post
-title:      Avoiding pitfalls
+title:      Data Sources
 author:     Shared by MACL
 tags: 		  data-source
 category:  med
 header-img: "img/med.png"
 visualworkflow: true
 ---
-<iframe id="sources" src="http://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/"
-style="border: non; width: 100%; height: 800px"
-frameborder="0">
-</iframe>
+30 Resources to Find the Data You Need
+* [Flowingdata](http://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/)

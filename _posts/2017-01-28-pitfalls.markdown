@@ -7,7 +7,5 @@ category:  med
 header-img: "img/med.png"
 visualworkflow: true
 ---
-<iframe id="pitfalls" src="http://www.claviusweb.net/pitfalls/"
-style="border: non; width: 100%; height: 800px"
-frameborder="0">
-</iframe>
+Pitfalls of Data Analysis
+* [or How to Avoid Lies and Damned Lies](http://www.claviusweb.net/pitfalls/)
