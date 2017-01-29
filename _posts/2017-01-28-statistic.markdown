@@ -7,8 +7,4 @@ category:  med
 header-img: "img/med.png"
 visualworkflow: true
 ---
-
-<iframe id="researcherrors" src="http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"
-style="border: non; width: 100%; height: 800px"
-frameborder="0">
-</iframe>
+[`researcherrors`](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124/)
