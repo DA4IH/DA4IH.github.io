@@ -5,7 +5,7 @@ author:     MACL
 tags: 		  statistics
 category:  med
 header-img: "img/med.png"
-visualworkflow: false
+visualworkflow: true
 ---
 
 <iframe id="researcherrors" src=" http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"

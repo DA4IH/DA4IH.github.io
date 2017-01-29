@@ -6,5 +6,5 @@ tags: 		  CENETEC Workshop
 subtitle:  	Temas de Punta en Estandarización de Datos y su Analisis, efectividad en los costos.
 category:  ece
 header-img: "img/ece.0.png"
-visualworkflow: false
+visualworkflow: true
 ---
