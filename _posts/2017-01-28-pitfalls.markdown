@@ -8,4 +8,4 @@ header-img: "img/med.png"
 visualworkflow: true
 ---
 Pitfalls of Data Analysis
-* [or How to Avoid Lies and Damned Lies](http://www.claviusweb.net/pitfalls/)
+[or How to Avoid Lies and Damned Lies](http://www.claviusweb.net/pitfalls/)

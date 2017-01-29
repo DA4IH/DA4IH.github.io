@@ -3,7 +3,7 @@ layout:     post
 title:      Alianza con CENETEC Gestion Workshop.
 author:     Dolores Ojeda C
 tags: 		  CENETEC Workshop
-subtitle:  	Temas de Punta La Estandarización de Datos y su Analisis, impacto en la efectividad en los costos.
+subtitle:  	Tema de Punta: La Estandarización de Datos y su Analisis, impacto en la efectividad en los costos.
 category:  ece
 header-img: "img/ece.0.png"
 visualworkflow: true
