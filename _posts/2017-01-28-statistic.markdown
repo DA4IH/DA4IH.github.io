@@ -7,5 +7,5 @@ category:  med
 header-img: "img/med.png"
 visualworkflow: true
 ---
-Why Most Published Research Findings Are False?
-[`Research Errors`](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124/)
+Why Most Published Research Findings Are False? http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124/
+[`Research Errors`](http://journals.plos.org/plosmedicine/)
