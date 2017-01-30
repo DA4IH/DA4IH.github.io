@@ -1,12 +1,15 @@
 ---
 layout:     post
 title:      Errors on Statistic Results
-author:     Shared by MACL
-tags: 		  statistics
-category:  med
-header-img: "img/med.png"
+author:     Dra. María Cosío León
+tags: 		  statistics posgrado
+category:  academia
+header-img: "img/clases.png"
 visualworkflow: true
 ---
+
+*poner algún mensaje personal aquí indicando el objetivo de compartir éste trabajo*
+
 Why Most Published Research Findings Are False
 [**Research Errors**](http://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable)
 

@@ -2,7 +2,7 @@
 layout:     	slide
 title:     		Introducción a la Programación
 author:     	Dra. María Cosío León
-tags:         Programación Clases
+tags:         Programación Clases Pregrado
 subtitle:    	"Generalidades de Clase y Conceptos Iniciales"
 category:     academia
 

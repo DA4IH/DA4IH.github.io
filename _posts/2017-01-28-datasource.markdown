@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      Data Sources
-author:     Shared by MACL
-tags: 		  data-source
-category:  med
-header-img: "img/med.png"
+author:     Dra. María Cosío León
+tags: 		  data-source posgrado statistics
+category:  academia
+header-img: "img/clases.png"
 visualworkflow: true
 ---
 30 Resources to Find the Data You Need
