@@ -1,0 +1,50 @@
+---
+layout:     post
+title:      Intro to Git
+author:     Gener Avilés R
+tags: 		  git github
+subtitle:  	Version Control
+category:  academia
+header-img: "img/clases.png"
+visualworkflow: false
+---
+
+## Why Git and GitHub?
+When a group of people work together on developing content in a digital platform, it tends to get messy with collaborations that might overlap with each other, to avoid this challenge *version control* has been developed as a component of *software configuration management*. This allows the group to reduce the chance of stepping on each others toes. In this breaf introduction we will explore the use of **Git** as a *version control software* and **GitHub** as a remote repository tool to store your precious work.  
+
+
+## Getting the Software We'll Need
+First of all it is important to download [**Git**](https://git-scm.com/downloads), you will also need a text editor (here you get to choose the one you like the best :=), we usually work with [**Atom**](https://atom.io). After you get these components you´ll have to get an account on [**GitHub**](https://github.com) (don't worry, all this is for free).
+Once you have Git and Atom installed on your computer plus the GitHub online account you are set for the next step.
+
+## Setting the Environment on your Computer (*Local Repository*)
+Run a *Command Prompmt* window as **administrator**, regardless of the repository where it initializes you can run the following commands to set things right for your work:
+
+`$ git config --global user.name "*your name here*"`
+
+`$ git config --global user.email *youremail@goeshere.com*`.
+
+Remember to pass the option `--global`, this will tell Git to use your information for all the work you do on the computer you are installing this.
+Pro Tip: All Git commands can be executed from the Command Prompt, we will learn to use GitBash further ahead as well.
+
+## Starting with a Git Repository
+A Git repository can be initiated in two ways:
+  * Creating a repository on the computer and then importing it to Git.
+  * Cloning an existing Git repository from another server.
+
+This tutorial will focus on the second scenario, which is usually the case when one is wanting to join a project that has already been under development.
+
+### Cloning an Existing Repo
+
+The key command in this situation is `git clone`, through this command Git gets a full copy of the project for you to work with. This means that every version of every file of the Repo will be downloaded into your local computer.
+The structure of the command is as follows:
+
+`$ git clone [url]`
+
+For example if I wanted to clone the repo of the open landing page for *Red México Abierto* the code would look like this:
+
+`$ git clone https://github.com/mxabierto/mxabierto.org.git`.
+
+This code will create a directory where you indicate through command line and will name it "*mxabierto.org.git*" if you want your local repo to have a different name you can indicate it by running another command after the url with the name of the directory you´d like.
+
+You can get the url from the remote repository, in our case we will get it from **GitHub**, this will be shown in the next steps of this tutorial.
