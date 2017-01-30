@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      Avoiding pitfalls
-author:     Share by MACL
+author:     Dra. María Cosío León
 tags: 		  statistics
-category:  med
-header-img: "img/med.png"
+category:  academia
+header-img: "img/clases.png"
 visualworkflow: true
 ---
 Pitfalls of Data Analysis
