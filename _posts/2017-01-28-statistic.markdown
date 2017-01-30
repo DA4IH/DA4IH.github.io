@@ -2,7 +2,7 @@
 layout:     post
 title:      Errors on Statistic Results
 author:     Dra. María Cosío León
-tags: 		  statistics
+tags: 		  statistics posgrado
 category:  academia
 header-img: "img/clases.png"
 visualworkflow: true

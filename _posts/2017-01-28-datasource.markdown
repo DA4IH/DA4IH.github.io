@@ -2,7 +2,7 @@
 layout:     post
 title:      Data Sources
 author:     Dra. María Cosío León
-tags: 		  data-source
+tags: 		  data-source posgrado statistics
 category:  academia
 header-img: "img/clases.png"
 visualworkflow: true
