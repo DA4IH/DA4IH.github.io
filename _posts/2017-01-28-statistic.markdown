@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Errors on statistic results
+title:      Errors on Statistic Results
 author:     Shared by MACL
 tags: 		  statistics
 category:  med
@@ -8,7 +8,7 @@ header-img: "img/med.png"
 visualworkflow: true
 ---
 Why Most Published Research Findings Are False
-[`Research Errors`](http://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable)
+[**Research Errors**](http://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable)
 
 Abstract
 
