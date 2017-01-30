@@ -48,3 +48,22 @@ For example if I wanted to clone the repo of the open landing page for *Red Méx
 This code will create a directory where you indicate through command line and will name it "*mxabierto.org.git*" if you want your local repo to have a different name you can indicate it by running another command after the url with the name of the directory you´d like.
 
 You can get the url from the remote repository, in our case we will get it from **GitHub**, this will be shown in the next steps of this tutorial.
+
+## Connecting to Online Repository
+
+Once your local environment is ready it is important to set the connections with your remote repository to be able to interact with more people on the same project.
+
+### Connecting to GitHub with a SSH Key
+
+  * Generate an SSH key and save it. If you don't know how to do it [*this is a good reference for that.*](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+  * Add your SSH key to your GitHub account information. [This is a guid on how to do it](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+  * *A more comprehensive review of SSH keys and how to use them in GitHub can be accessed* [*here*](https://help.github.com/articles/connecting-to-github-with-ssh/).
+
+### Forking the Project (Repo)
+
+  * Go to the online repository on [GitHub](https://github.com/DA4IH/DA4IH.github.io) that corresponds to the project you want to collaborate with.
+  * On the right hand side, almost at the top of the page you will find a green button with the **clone or download** message. Click on it and copy the url.
+  * At this point you are ready to execute the `--clone` command from your computer as previously described. Remember to make sure that you are at the directory where you want the project to be downloaded to.
+  * A more detailed description of this process can be found [here](https://help.github.com/articles/cloning-a-repository/)
+
+**At this point you are ready to start working with your project and make the personal changes you need**
