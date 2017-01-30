@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      Higiene del Sueño y Análisis Inteligentes
 subtitle:  Colaboración con Fredheim Wellness Center en Noruega
@@ -8,3 +8,4 @@ category:  med
 header-img: "img/med.png"
 visualworkflow: false
 ---
+Fredheim es un centro de vida sana en Noruega, en este momento se está aplicando la encuesta "La higiene del sueño y sus implicaciones con la Calidad del sueño"
