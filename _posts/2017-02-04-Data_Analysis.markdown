@@ -7,13 +7,9 @@ category:  academia
 header-img: "img/clases.png"
 visualworkflow: true
 ---
+Muchas organizaciones construyen modelos complicados, para ser usandos en un subconjunto de datos muy pequeño. En la actualidad la cantidad de datos que se generan permite trabajar con modelos matematicos mas simples, cuyos resultados son de calidad.
 
-Many organizations build complicated models that use a smaller subset of data to determine what content should be offered to the user next.
-
-Modelos No-Parametricos
-
-Overall, a weak assumption coupled with complex algorithms is far less efficient than using more data with simpler algorithms.
-
+##Modelos No-Parametricos
 La estadística no paramétrica es una rama de la estadística que estudia las pruebas y modelos estadísticos cuya distribución subyacente no se ajusta a los llamados criterios paramétricos. Su distribución no puede ser definida a priori, pues son los datos observados los que la determinan. La utilización de estos métodos se hace recomendable cuando no se puede asumir que los datos se ajusten a una distribución conocida, cuando el nivel de medida empleado no sea, como mínimo, de intervalo. Las principales pruebas no paramétricas son las siguientes:
 
 Prueba χ² de Pearson

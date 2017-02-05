@@ -2,7 +2,7 @@
 layout:     post
 title:      The Kiji Project
 author:     Dra. María Cosío León
-tags: 		  data analytics posgrado algorithms 
+tags: 		  data analytics algorithms 
 category:  academia
 header-img: "img/clases.png"
 visualworkflow: true
