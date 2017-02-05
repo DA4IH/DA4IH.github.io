@@ -5,8 +5,9 @@ author:     Dra. María Cosío León
 tags: 		  data-source posgrado statistics
 category:  academia
 header-img: "img/clases.png"
-visualworkflow: true
+visualworkflow: false
 ---
+
 Muchas organizaciones construyen modelos complicados, para ser usandos en un subconjunto de datos muy pequeño. En la actualidad la cantidad de datos que se generan permite trabajar con modelos matematicos mas simples, cuyos resultados son de calidad.
 
 ##Modelos No-Parametricos
