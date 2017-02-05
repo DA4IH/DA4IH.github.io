@@ -12,7 +12,7 @@ Muchas organizaciones construyen modelos complicados, para ser usandos en un sub
 
 Un ejemplo de estos modelos lo constituye el trabajo mostrado en el siguiente video. Donde alumnos del MIT, Tuka AlHanai y Mohammad Mahdi Ghassemi, proponen una aplicación que describe el estado de animo de quien relata un evento. Este trabajo es descrito en el articulo: Predicting Latent Narrative Mood using Audio and Physiologic Data.
 
-<iframe width="320" height="225" src="https://www.youtube.com/embed/ZZFcgg-7dlc?list=UUPLAYER_MITCSAIL" frameborder="0" allowfullscreen></iframe>
+<iframe width="518" height="259" src="https://www.youtube.com/embed/ZZFcgg-7dlc?list=UUPLAYER_MITCSAIL" frameborder="0" allowfullscreen></iframe>
 
 ## Modelos No-Parametricos
 La estadística no paramétrica es una rama de la estadística que estudia las pruebas y modelos estadísticos cuya distribución subyacente no se ajusta a los llamados criterios paramétricos. Su distribución no puede ser definida a priori, pues son los datos observados los que la determinan. La utilización de estos métodos se hace recomendable cuando no se puede asumir que los datos se ajusten a una distribución conocida, cuando el nivel de medida empleado no sea, como mínimo, de intervalo. Las principales pruebas no paramétricas son las siguientes:
