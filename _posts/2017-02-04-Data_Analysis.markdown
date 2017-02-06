@@ -11,7 +11,7 @@ visualworkflow: false
 Muchas organizaciones construyen modelos complicados, para ser usandos en un subconjunto de datos muy pequeño. En la actualidad la cantidad de datos que se generan permite trabajar con modelos matematicos mas simples, cuyos resultados son de calidad.
 
 <iframe width="518" height="259"
-https://www.youtube.com/watch?v=5uEBl2x78SI
+src="https://www.youtube.com/watch?v=5uEBl2x78SI"
 frameborder="0" allowfullscreen></iframe>
 
 Un ejemplo de estos modelos lo constituye el trabajo mostrado en el siguiente video. Donde alumnos del MIT, Tuka AlHanai y Mohammad Mahdi Ghassemi, proponen una aplicación que describe el estado de animo de quien relata un evento. Este trabajo es descrito en el articulo: Predicting Latent Narrative Mood using Audio and Physiologic Data.
