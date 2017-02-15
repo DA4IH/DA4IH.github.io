@@ -7,9 +7,9 @@ url: "https://da4ih.github.io"
 
 
 # Secondary Parameters
-header-img: img/medInfo 7.jpg
+header-img: img/math.jpg
 headercolor: "#FFFFFF"
-logo: "https://raw.githubusercontent.com/DA4IH/DA4IH.github.io/master/img/Logo_DAIH_RGB_Banner1.png"
+logo:
 
 # Tertiary Parameters
 github_username: DA4IH
