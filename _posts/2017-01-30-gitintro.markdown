@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Intro to Git
-author:     Gener Avilés R
+author:     Gener Avilés
 tags: 		  git github
 subtitle:  	Version Control
 category:  academia
@@ -73,4 +73,4 @@ Once your local environment is ready it is important to set the connections with
 While working on your directory, it is important to allow Git to keep track of your work in order for it to properly work. These are the commands you need to know for this:
   * `git pull`: this compares the files in your computer with the ones on GitHub and, if needed, it updates your local repo with the online one.
   * `git add .` : it allows Git to be "aware" of all the new files and those updated in the directory.
-  * `git commit -m "yout message here"`: This command prepares a bundle of files up to the 
+  * `git commit -m "yout message here"`: This command prepares a bundle of files up to the

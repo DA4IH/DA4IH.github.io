@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Red Neuronal para Diagnósticos
-author:     Arturo Laflor H
+author:     Arturo Laflor
 tags: 		  perceptron cancer IA medicina divulgación
 category:  med
 header-img: "img/med.png"

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Colaboración con DoxHealth
-author:     Dolores Ojeda C
+author:     Dolores Ojeda
 tags: 		  ECE interoperabilidad
 subtitle:  	Explorando Interoperabilidad e Inteligencia Artificial en Un Expediente Clínico Electrónico.
 category:  ece

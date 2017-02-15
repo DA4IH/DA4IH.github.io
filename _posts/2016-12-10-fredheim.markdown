@@ -2,7 +2,7 @@
 layout:     post
 title:      Higiene del Sueño y Análisis Inteligentes
 subtitle:  Colaboración con Fredheim Wellness Center en Noruega
-author:     Arturo Laflor H
+author:     Arturo Laflor
 tags: 		  sueño medicina
 category:  med
 header-img: "img/med.png"
