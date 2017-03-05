@@ -11,7 +11,7 @@ visualworkflow: false
 
 Fredheim es un centro de vida sana en Noruega con el que se está haciendo un trabajo de colaboración. El centro de vida sana aplicará una encuesta entre sus pacientes para identificar las posibles relaciones entre la higiene del sueño y la calidad del mismo. <br />
 
-Los cuestionarios serán aplicado sen tres idiomas:
+Los cuestionarios serán aplicado en tres idiomas:
 * Inglés
 * Alemán
 * Noruego
